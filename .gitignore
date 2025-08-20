@@ -1,0 +1,40 @@
+# STM32 build files
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+*.o
+*.obj
+*.dep
+
+# Keil uVision
+*.uvopt*
+*.uvgui.*
+*.bak
+*.plg
+*.tra
+
+# IAR
+*.eww
+*.ewd
+*.ewp
+*.ewt
+*.dep
+
+# CubeMX
+*.ioc
+
+# Other
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Build directories
+build/
+Debug/
+Release/
+out/
+output/

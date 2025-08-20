@@ -1,0 +1,11 @@
+# enforce LF in repository for source files
+*       text=auto eol=lf
+*.c     text eol=lf
+*.h     text eol=lf
+*.s     text eol=lf
+*.ld    text eol=lf
+*.mk    text eol=lf
+Makefile text eol=lf
+makefile text eol=lf
+*.html  text eol=lf
+*.htm   text eol=lf
